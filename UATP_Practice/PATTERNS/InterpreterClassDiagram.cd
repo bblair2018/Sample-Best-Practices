@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UATP_Practice.PATTERNS.SqlExpression">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PATTERNS\Interpreter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UATP_Practice.PATTERNS.SelectExpression">
+    <Position X="1.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>PATTERNS\Interpreter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UATP_Practice.PATTERNS.FromExpression">
+    <Position X="3.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PATTERNS\Interpreter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UATP_Practice.PATTERNS.WhereExpression">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PATTERNS\Interpreter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UATP_Practice.PATTERNS.OrderByExpression">
+    <Position X="8" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PATTERNS\Interpreter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UATP_Practice.PATTERNS.ChatMediator">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAIAgAAAAAAAAAAA=</HashCode>
+      <FileName>PATTERNS\Mediator.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_users" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UATP_Practice.PATTERNS.User">
+    <Position X="5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAACAAAAQAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PATTERNS\Mediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UATP_Practice.PATTERNS.ChatUser">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PATTERNS\Mediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="UATP_Practice.PATTERNS.IChatMediator">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>PATTERNS\Mediator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

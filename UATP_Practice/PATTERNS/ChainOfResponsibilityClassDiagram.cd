@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UATP_Practice.PATTERNS.LeaveApprover">
+    <Position X="5.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>PATTERNS\ChainOfResponsibility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UATP_Practice.PATTERNS.TeamLead">
+    <Position X="3" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PATTERNS\ChainOfResponsibility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UATP_Practice.PATTERNS.DepartmentManager">
+    <Position X="5" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PATTERNS\ChainOfResponsibility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UATP_Practice.PATTERNS.CEO">
+    <Position X="7.5" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PATTERNS\ChainOfResponsibility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UATP_Practice.PATTERNS.LeaveRequest">
+    <Position X="9.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>PATTERNS\ChainOfResponsibility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
